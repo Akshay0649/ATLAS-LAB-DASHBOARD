@@ -42,3 +42,10 @@ The **Atlas Labs HR Analytics Dashboard** is a comprehensive Power BI project de
 - **Employee Sentiment Analysis**: Integrating feedback data to gauge employee morale.
 - **Custom Reporting**: Additional filters for personalized reporting capabilities based on user roles.
 
+![Overview](https://github.com/user-attachments/assets/d49bea1a-4444-485a-a2e4-bdae21274d12)
+![Demographics](https://github.com/user-attachments/assets/da32b2b2-04a3-48aa-9073-57e6efa3ae0c)
+![Demographics](https://github.com/user-attachments/assets/f6b2b2d0-7953-4651-8ceb-05e56381c239)
+![Attrition Rate](https://github.com/user-attachments/assets/cfde64c0-f964-431c-ad04-7c169df01c58)
+
+
+
